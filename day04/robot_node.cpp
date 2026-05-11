@@ -35,3 +35,7 @@ void NodeBase::spin(int cycles) {
         update();
     }
 }
+
+//Virtual functions allow us to call derived class implementations through base class pointers, enabling polymorphism.
+//pure virtual functions the function has no implemetation in the base class, every derived class must implement it.
+//override keyword redefines the virtual function from the base class.
