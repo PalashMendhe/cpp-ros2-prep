@@ -34,4 +34,3 @@ int main(){
 
 //vector stores elements contiguously in memory, for fast acces of elemnts by index.
 //map vs unordered map time complexity: map-> O(log n) and unordered mao -> O(1). use map when you need sorted order of keys, and unordered map when you need faster access and don't care about order.
-//don't know
