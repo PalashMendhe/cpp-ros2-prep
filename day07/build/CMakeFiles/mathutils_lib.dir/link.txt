@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmathutils_lib.a CMakeFiles/mathutils_lib.dir/mathutils.cpp.o
+/usr/bin/ranlib libmathutils_lib.a

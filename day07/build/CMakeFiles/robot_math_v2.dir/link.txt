@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/robot_math_v2.dir/link.d CMakeFiles/robot_math_v2.dir/main.cpp.o -o robot_math_v2  libmathutils_lib.a
