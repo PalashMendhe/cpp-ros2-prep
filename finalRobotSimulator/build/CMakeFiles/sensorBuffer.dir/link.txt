@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsensorBuffer.a CMakeFiles/sensorBuffer.dir/sensorBuffer.cpp.o
+/usr/bin/ranlib libsensorBuffer.a

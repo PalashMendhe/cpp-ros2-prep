@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/plsh/cpp_ros2_prep/finalRobotSimulator/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
